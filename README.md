@@ -3,7 +3,7 @@ This file contains info about the interview.
 # Getting started
 
 - `npm install`
-- `npx json-server --watch db.json` (Launching fake REST API)
+- `npx json-server -p 8000 --watch db.json` (Launching fake REST API)
 - `npm start` (Launching app)
 
 # Already implemented

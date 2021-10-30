@@ -3,8 +3,8 @@ This file contains info about the interview.
 # Getting started
 
 - `npm install`
-- `npm install -g json-server` (installing json-server to launch fake REST API)
-- `json-server --watch db.json` (Launching fake REST API)
+- `npm install json-server` (installing json-server to launch fake REST API)
+- `npx json-server --watch db.json` (Launching fake REST API)
 - `npm start` (Launching app)
 
 # Already implemented

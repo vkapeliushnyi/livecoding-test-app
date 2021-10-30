@@ -14,7 +14,7 @@ This file contains info about the interview.
 
 # Task
 
-1. Read and understand the requirements from the [REQUIREMENTS.md](./REQUREMENTS.md)
+1. Read and understand the requirements from the [REQUIREMENTS.md](REQUIREMENTS.md)
 
 2. Produce a breakdown of work with estimated time for each subtask and some details about the task.
 

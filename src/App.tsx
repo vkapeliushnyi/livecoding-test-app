@@ -4,7 +4,6 @@ import Router from './router';
 import {BrowserRouter} from "react-router-dom"
 
 function App() {
-  console.log(getUsers())
   return (
     <BrowserRouter>
       <Router/>

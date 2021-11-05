@@ -3,13 +3,12 @@ This file contains info about the interview.
 # Getting started
 
 - `npm install`
-- `npx json-server -p 8000 --watch db.json` (Launching fake REST API)
-- `npm start` (Launching app)
+- `npm start`
 
 # Already implemented
 
 - 3 Pages(Home Page, Admin Page, User Page) and base routing between them.
-- db.json file which contains array of users and getUsers method to fetch list of users.
+- login method to authenticate user and api with it`s documentation https://geniusee-auth.herokuapp.com/docs/.
 - Bootstrap library cdn to create styles.
 
 # Task
